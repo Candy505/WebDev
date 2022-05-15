@@ -1,0 +1,93 @@
+* {
+    padding: 0;
+    margin: 0;
+    color: rgb(112, 35, 103);
+}
+
+body{
+    background-color: #d1c2c9;
+}
+body > h1{
+    text-align: center;
+    background-color: #d1c2c9;
+
+}
+
+.noob{
+
+     display: flex;
+     justify-items: center;
+     padding : 10px ;
+     height: 50%;
+     background-color: #E2E8F5;
+    }
+
+.bro {
+    display: flex;
+    justify-content: flex-end;
+    background-image: url("testBox\images\dan-cristian-padure-Co315r87x-E-unsplash.jpg");
+}
+
+.loo h1,
+.hehe h1,
+.lol h1 {
+    margin-bottom: 15px;
+}
+
+.loo {
+    margin: 20px;
+    border: 13px #8CB5D8 outset;
+    border-radius: 10px;
+    padding: 30px;
+    background-color: #E2E8F5;
+    width: 50%;
+    height: 400px;
+    overflow: scroll;
+
+}
+
+.hehe {
+    margin: 20px;
+    background-color: #E2E8F5;
+    border: 13px #8CB5D8 outset;
+    border-radius: 10px;
+    padding: 30px;
+   /* background-color: rgb(228, 216, 200);*/
+
+    width: 50%;
+    height: 400px;
+    overflow: scroll;
+
+
+}
+
+.lol {
+    margin: 20px;
+    border: 13px #8CB5D8 outset;
+    border-radius: 10px;
+    padding: 30px;
+    /*background-color: rgb(228, 216, 200);*/
+    background-color: #E2E8F5;
+    width: 60%;
+
+    height: 400px;
+    overflow: scroll;
+}
+
+.bhen{
+    border :10px  #8CB5D8 outset;
+}
+
+.fomo{
+     display: flex;
+     justify-content: start;
+     background-color: #d1c2c9;
+    }
+
+    .faltu{
+        border: 5px #d1c2c9  solid;
+        padding : 14px ;
+        
+    }
+
+    

@@ -28,6 +28,6 @@ $(function() {
      $("#ok").slideDown("slow") ;
     });
 
-
+  $("#p1").after("hey") ;
      
 }) ;
